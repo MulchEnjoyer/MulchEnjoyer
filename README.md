@@ -5,12 +5,12 @@ Hey there! I'm **MulchEnjoyer**, a **law and neuroscience student** with a deep 
 ### What I'm up to:
 - 📖 Studying **Law** and **Neuroscience**.
 - 💡 Building a **SaaS platform** to summarize content and filter out noise from platforms like X.
-- 🤖 Experimenting with **Telegram bots**, integrating them with healthcare applications.
+- 🤖 Experimenting with **Telegram bots**, integrating them with healthcare and workflow applications.
 - 🔬 Assisting research to understand how **tech** can improve human well-being.
 - 🧪 Playing around with **data** and automating tasks with Python, R, and AutoHotkey.
 
 ### Fun facts:
-- 🥗 Favorite meals: Chicken salad 🐔 and fresh fruits 🍉🍎. (That's not true the GPT said that because I was calculating the macros of a chicken salad)
+- 🥗 Favorite meals: Chicken salad 🐔 and fresh fruits 🍉🍎. (That's not true the GPT said that because I was calculating the macros of a chicken salad at one point)
 - 🚀 Aspiring inventor, ready to innovate and create solutions that make a difference! (That's true)
 
 Let's connect:
